@@ -1,0 +1,38 @@
+{
+  "name": "My Luvina",
+  "short_name": "My Luvina",
+  "start_url": "https://www.myluvina.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Tips anak cerdas sehat & pintar belajar bermain serta mengaji sejak balita & usia dini dalam tumbuh kembang yg baik degan nutrisi suplemen anak cerdas",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-O6b7fa4OqHE/XTbyws-5-HI/AAAAAAAABYM/T-Cm5CvIrhg_vCcqUTAdKARCxl3v-S3aQCLcBGAs/s48/myluvina-icon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-O6b7fa4OqHE/XTbyws-5-HI/AAAAAAAABYM/T-Cm5CvIrhg_vCcqUTAdKARCxl3v-S3aQCLcBGAs/s72/myluvina-icon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-O6b7fa4OqHE/XTbyws-5-HI/AAAAAAAABYM/T-Cm5CvIrhg_vCcqUTAdKARCxl3v-S3aQCLcBGAs/s96/myluvina-icon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-O6b7fa4OqHE/XTbyws-5-HI/AAAAAAAABYM/T-Cm5CvIrhg_vCcqUTAdKARCxl3v-S3aQCLcBGAs/s144/myluvina-icon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-O6b7fa4OqHE/XTbyws-5-HI/AAAAAAAABYM/T-Cm5CvIrhg_vCcqUTAdKARCxl3v-S3aQCLcBGAs/s168/myluvina-icon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-O6b7fa4OqHE/XTbyws-5-HI/AAAAAAAABYM/T-Cm5CvIrhg_vCcqUTAdKARCxl3v-S3aQCLcBGAs/s192/myluvina-icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-O6b7fa4OqHE/XTbyws-5-HI/AAAAAAAABYM/T-Cm5CvIrhg_vCcqUTAdKARCxl3v-S3aQCLcBGAs/s512/myluvina-icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
